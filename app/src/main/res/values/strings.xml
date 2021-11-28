@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">1918063_Tugas6_elannugiferdiyanto</string>
+    <string-array name="city_list">
+        <item>Bandung</item>
+        <item>Probolinggo</item>
+        <item>Jogja</item>
+        <item>Malang</item>
+        <item>jakarta</item>
+    </string-array>
+
+</resources>
